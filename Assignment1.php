@@ -1,0 +1,109 @@
+<html>
+<head>
+</head>
+<body>  
+
+<h2 align="center">Sheikh Md. Aaraf</h2>
+
+<fieldset >
+
+<legend align="center">Contact & Resume</legend>
+
+</p>
+<h3>Contact Info :</h3>
+<p>
+<ul>
+<li>Phone : 01732996633</li>
+<li>Email : ibrahimaaraf21@gmail.com</li>
+
+
+</ul>
+</p>
+<h3>Social Links :</h3>
+<p>
+<ul> 
+<li>Facebook Profile : <a href="https://www.facebook.com/">Sheikh Md. Aaraf</a> <br></li>
+<li>Github : <a href="https://github.com/ibrahimaaraf"> Ibrahim Aaraf</a> <br></li>
+</ul>
+</p>
+
+<p>
+
+
+<h3>Education :</h3> 
+<p>
+<ul>
+<li><p>
+
+<h4 style="color:blue">American International University, Bangladesh</h4>
+<p>
+<ul>
+<li>BSc. in Computer Science and Engineering </li>
+<li> CGPA : 3.68/4 </li>
+<li>January 2018 - January 2021 </li>
+</ul>
+</p></li>
+
+<li><p>
+<h4 style="color:blue">Adamjee Cantonment College</h4>
+
+
+<ul>
+<li>Higher Secondary School Certificate </li>
+<li> Gpa : 4.50/5 </li>
+</ul>
+</p></li>
+
+<li><p>
+<h4 style="color:blue">Ideal School And College</h4>
+
+<ul>
+<li> Secondary School Certificate </li>
+<li> Gpa : 5.00/5 </li>
+</ul>
+<h4 style="color:blue"></h4>
+
+</p></li>
+</ul></p>
+
+
+<h3>Professional Skills :</h3>
+
+<p>
+<ul>
+<li> Proficient in Microsoft Office(Word,PPT,Excel)</li>
+<li> Proficient in Programming languages - C,C++,PHP,Java,C#</li>
+<li>Object Oriented Programming Experience - Java,C#</li>
+<li>Experience with Database Management - Oracle, Mysql</li>
+<li>Fluency in English in terms of both speaking and writing</li>
+</ul>
+</p>
+
+<h3>Projects & Activities :</h3>
+
+<p>
+<ul>
+<li>Object Oriented Programming : Restraurant Management System (Using Java)</li>
+<li>Object Oriented Programming : Event Management System (Using C#)</li>
+<li>Database and SQL management : Coffee Shop Management System (Using Oracle DB)</li>
+
+</ul>
+</p>
+
+<h3>Interests :</h3>
+<p>
+<ul>
+
+<li>Photography</li>
+<li>Traveling</li>
+<li>Sports (Cricket,Badminton)</li>
+</ul>
+</p>
+
+</fieldset>
+
+
+
+
+</body>
+</html>
